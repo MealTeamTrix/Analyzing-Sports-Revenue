@@ -1,9 +1,7 @@
 # Project Name
-This project is ________. (Describe the main goals of the project. Limit to 1-2 sentences)
+This is the Analyzing Online Sports Revenue project in Datacamp.
 
 ## Description
-Optional section to provide a more detailed overview of the project.
-
-## Getting Started
-Optional section to summarize important steps and how to use the project & apps in the project
-
+The purpose of this project is to analyze (4) datasets and identify:
+* What the volume of products and average revenue for Adidas and Nike products.
+* Identify if any differences exist between the word count of a products description.
